@@ -9,7 +9,7 @@ padding-top: 20px;
 
 
 body {
-    background-image: url("/Users/apple/Desktop/Pictures /Chocolate/candies-chocolates-delicious-867464.jpg");
+    background-image: url("./images/candies-chocolates-delicious-867464.jpg");
   background-position: right top;
   background-attachment: fixed;
 }
